@@ -5,6 +5,8 @@ A Simple FileHosting Script (PHP/JS)
 
 A simple yet powerful PHP-based file hosting script that allows users to upload and share files. It offers basic features such as file management, user management, and the ability to make files available permanently or temporarily.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **User Management:**
